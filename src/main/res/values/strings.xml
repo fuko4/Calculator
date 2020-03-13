@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc_view">0</string>
+    <string name="error_text">ERROR</string>
+    <string name="save_result">Сохранить результат</string>
+    <string name="share_result">Share</string>
+</resources>
